@@ -31,7 +31,9 @@ Several AI-based algorithms have been registered by the Food and Drug Administra
 
 Hence, Due to a shortage of digital medicine education, numerous private medical schools are teaching their future medical leaders to face the challenge of augmented medicine by combining the medical and engineering curricula or including digital health literacy and usage into an enhanced curriculum.
 
-![image](https://user-images.githubusercontent.com/98705110/152209444-8e340d34-8462-4112-a0f9-d99b839a742b.png) Fig.1. AI plays as much role in medicine as doctors.
+![image](https://user-images.githubusercontent.com/98705110/152209444-8e340d34-8462-4112-a0f9-d99b839a742b.png) 
+
+Fig.1. AI plays as much role in medicine as doctors.
 
 
 ### **Early Detection:**
@@ -44,13 +46,15 @@ Tasks, where AI can successfully show its performance in comparison to a human d
 Summarized in the pie chart are the broad applications of AI in medicine :
 
 ![image](https://user-images.githubusercontent.com/98705110/152212084-032ae957-7e4a-479b-bb8c-55ccfda4f253.png)
+
 Fig.2. Appliation of AI in Medicine  
 
 ### **Doctors are being supported by Artificial Intelligence**, but not replaced by it: 
 Patients must believe that consultations are being guided by human doctors since machines lack human traits such as empathy and sympathy. Moreover, patients cannot be expected to trust AI right away, as it is a technology steeped in suspicion.   Furthermore, AI is frequently used to undertake activities that are necessary but restricted in scope, leaving the primary duty for patient treatment to a human doctor
-Fig.2. Application of AI in Medicine
 
-![image](https://user-images.githubusercontent.com/98705110/152212329-574aef98-5512-4306-8ea8-6bd49169e0d0.png)
+
+![image](https://user-images.githubusercontent.com/98705110/152238102-e3a093dc-cca8-4040-a2b2-a77496af2bcf.png)
+
 Fig.3. Doctors are being supported by Artificial Intelligence 
 
 ### **Treatment:**
@@ -59,7 +63,8 @@ For more than 30 years, robots have been employed in medicine. They range in com
 
 Of course, there are pros of Artificial Intelligence in Medicine but also it has some disadvantages too. Here are some of them presented in the figure below 
 
-![image](https://user-images.githubusercontent.com/98705110/152214669-fd68ff45-bafa-44a8-b56b-00e725bc7aae.png)
+![image](https://user-images.githubusercontent.com/98705110/152238444-6b9f02a0-af96-468d-8bec-e7978cd518c1.png)
+
 Fig.4. Pros and Cons of implementation of AI in Medicine
 
 
