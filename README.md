@@ -20,7 +20,7 @@ Pfarrkirchen, Germany
 23/01/2022
 
 
-## Introduction
+### Introduction
 
 
 Medical technology as a term refers to a variety of devices that help health practitioners to improve the quality of life for patients and society by conducting an early diagnosis, decreasing complications, optimizing therapy and/or giving less intrusive choices, and shortening hospital stays. While medical technologies were mostly known as classic medical devices (e.g., prosthetics, stents, implants) before the mobile era, the emergence of smartphones, wearables, detectors, and communication systems have revolutionized medicine by allowing artificial intelligence (AI) powered tools (such as applications) to be contained in very small sizes.
@@ -31,13 +31,45 @@ Several AI-based algorithms have been registered by the Food and Drug Administra
 
 Hence, Due to a shortage of digital medicine education, numerous private medical schools are teaching their future medical leaders to face the challenge of augmented medicine by combining the medical and engineering curricula or including digital health literacy and usage into an enhanced curriculum.
 
-![image](https://user-images.githubusercontent.com/98705110/152209444-8e340d34-8462-4112-a0f9-d99b839a742b.png) 
+![image](https://user-images.githubusercontent.com/98705110/152428193-46c81376-386a-48b0-a544-7bda3e589330.png)
 
 Fig.1. AI plays as much role in medicine as doctors.
 
 
 ### **Early Detection:**
 AI is already being used to diagnose illnesses more precisely and in their beginning phases, such as cancer. According to the American Cancer Society, a large percentage of mammograms provide misleading findings, resulting in one out of every two healthy women being diagnosed with cancer. AI is effectively allowing mammograms to be reviewed and translated 30 times quicker and with 99% accuracy, minimizing the need for unneeded biopsies.
+Years of medical training are required to correctly diagnose illnesses. Even yet, diagnostics can be a lengthy and time-consuming process. The demand for expertise in many disciplines considerably outnumbers the available supply. This puts doctors under a lot of pressure, and it frequently causes life-saving patient diagnoses to be delayed.
+
+### **Machine Learning algorithms**
+Particularly Deep Learning algorithms, have lately made significant progress in autonomously identifying illnesses, lowering the cost and increasing the accessibility of diagnostics.
+As a result, Machine Learning is especially useful in situations when the diagnostic data a doctor reviews has already been digitized.
+
+For example:
+
+CT scans can be used to detect lung cancer or strokes.
+
+Using electrocardiograms and cardiac MRI images to assess the risk of sudden cardiac death or other heart diseases.
+
+Identifying skin lesions in skin photos and classifying them
+
+Finding diabetic retinopathy signs in eye photographs
+
+![ALL](https://user-images.githubusercontent.com/98705110/152425576-5277d8ec-8398-412a-8c2a-2ca8a92a7470.png)
+
+How Machine learnings work is explained by a Biomedical Informatics Professor of Harvard Medical School in the link below :
+https://youtu.be/iqJVVoluJzY
+
+### **Developing drug faster**
+Drug development is a very costly procedure. Machine Learning can improve the efficiency of many of the analytical techniques used in drug development. This might save years of labor and hundreds of millions of dollars in investments.
+
+![image](https://user-images.githubusercontent.com/98705110/152426080-721255c1-8aa0-403b-b5ac-81e79b7d905a.png)
+
+AI has previously proven to be effective in all four stages of drug development:
+
+Stage 1: Identifying intervention targets;
+Stage 1: Identifying drug candidates
+Stage 3: Increasing the speed of clinical studies
+Stage 4: Identifying biomarkers for illness diagnosis
 
 
 ### **AI excels at well-defined tasks:**
@@ -45,7 +77,7 @@ Tasks, where AI can successfully show its performance in comparison to a human d
 
 Summarized in the pie chart are the broad applications of AI in medicine :
 
-![image](https://user-images.githubusercontent.com/98705110/152212084-032ae957-7e4a-479b-bb8c-55ccfda4f253.png)
+![image](https://user-images.githubusercontent.com/98705110/152431494-7fb427db-6920-4539-bd80-0a8a8688a075.png)
 
 Fig.2. Appliation of AI in Medicine  
 
@@ -63,9 +95,18 @@ For more than 30 years, robots have been employed in medicine. They range in com
 
 Of course, there are pros of Artificial Intelligence in Medicine but also it has some disadvantages too. Here are some of them presented in the figure below 
 
-![image](https://user-images.githubusercontent.com/98705110/152238444-6b9f02a0-af96-468d-8bec-e7978cd518c1.png)
+![image](https://user-images.githubusercontent.com/98705110/152431278-9faa2b78-ce70-46aa-963f-d609b8c51f8f.png)
 
 Fig.4. Pros and Cons of implementation of AI in Medicine
+
+### **Gene editing**
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats), especially the CRISPR-Cas9 gene editing technology, is a huge step forward in our capacity to alter DNA cheaply and accurately, like a surgeon.
+
+Short guide RNAs (sgRNA) are used in this approach to target and edit a specific place on the DNA. However, the guide RNA can suit several DNA sites, which might result in unexpected consequences (off-target effects). A key bottleneck in the use of the CRISPR technology is the careful selection of guide RNA with the fewest hazardous side effects.
+When it comes to forecasting the degree of both guide-target interactions and off-target effects for a particular sgRNA, Machine Learning models have been shown to yield the best outcomes. 
+
+![image](https://user-images.githubusercontent.com/98705110/152428033-092bae79-0017-41f9-8930-f4c8adbc0603.png)
+
 
 
 ### **Training:**
@@ -108,4 +149,6 @@ Briganti, G., & Le Moine, O. (1AD, January 1). Artificial Intelligence in medici
 
 Ahuja, A. S. (2019, October 4). The impact of Artificial Intelligence in medicine on the future role of the physician. PeerJ. Retrieved January 25, 2022, from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6779111/ 
 
+Schmitt, M. (2020). Artificial Intelligence in medicine: &nbsp;the top 4 applications. RSS. Retrieved February 3, 2022, from https://www.datarevenue.com/en-blog/artificial-intelligence-in-medicine 
 
+Powell, A. (2020, December 4). Risks and benefits of an AI revolution in medicine. Harvard Gazette. Retrieved February 3, 2022, from https://news.harvard.edu/gazette/story/2020/11/risks-and-benefits-of-an-ai-revolution-in-medicine/ 
